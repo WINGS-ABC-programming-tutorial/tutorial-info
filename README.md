@@ -1,13 +1,13 @@
 # 研究プログラミング　チュートリアル
-![ポスター](https://github.com/WINGS-ABC-programming-tutorial/tutorial-info/blob/2cbd13e7c754d8b7a8d606d0e16abf72a5ba61b3/poster/poster.png "ポスター")
+![ポスター](https://github.com/WINGS-ABC-programming-tutorial/tutorial-info/blob/7ae5becf8c5bae0c961da9afd006ee9c211ce673/poster/poster.png "ポスター")
 
 
 ## スライド
  * 第一回　スライド
-   * [PDF](https://github.com/WINGS-ABC-programming-tutorial/tutorial-info/blob/4f6bccff1ab91fa14acad56d5258b46d92747de5/slides/slides_day1.pdf)
+   * [PDF](https://github.com/WINGS-ABC-programming-tutorial/tutorial-info/blob/7ae5becf8c5bae0c961da9afd006ee9c211ce673/slides/slides_day1.pdf)
 
  * 第二回　スライド
-   * [PDF](https://github.com/WINGS-ABC-programming-tutorial/tutorial-info/blob/8a425c1f86794a2957b6929b26e323280b2139e2/slides/slides_day2.pdf)
+   * [PDF](https://github.com/WINGS-ABC-programming-tutorial/tutorial-info/blob/7ae5becf8c5bae0c961da9afd006ee9c211ce673/slides/slides_day2.pdf)
 
 
 ## サンプルコード
