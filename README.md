@@ -4,10 +4,10 @@
 
 ## スライド
  * 第一回　スライド
-   * [PDF](https://github.com/WINGS-ABC-programming-tutorial/tutorial-info/blob/7ae5becf8c5bae0c961da9afd006ee9c211ce673/slides/slides_day1.pdf)
+   * [PDF](https://github.com/WINGS-ABC-programming-tutorial/tutorial-info/blob/6d46d88916b1055fccf46f62c183d35906e38833/slides/slides_day1.pdf)
 
  * 第二回　スライド
-   * [PDF](https://github.com/WINGS-ABC-programming-tutorial/tutorial-info/blob/7ae5becf8c5bae0c961da9afd006ee9c211ce673/slides/slides_day2.pdf)
+   * [PDF](https://github.com/WINGS-ABC-programming-tutorial/tutorial-info/blob/6d46d88916b1055fccf46f62c183d35906e38833/slides/slides_day2.pdf)
 
 
 ## サンプルコード
